@@ -1,0 +1,6 @@
+<inicio>
+Obtener datos de ventas
+Obtener datos de tiendas = ('LIMA','TRUJILLO','AREQUIPA','TACNA')
+Obtener cantidades de ventas de juguete
+Obtener tipo de juguete = Niño y Niña
+<Fin>
